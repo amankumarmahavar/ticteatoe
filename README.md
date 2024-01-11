@@ -1,16 +1,46 @@
-# ticteatoe
+# Tic Tac Toe Game
 
-A new Flutter project.
+Welcome to the Tic Tac Toe Game! 🎮
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This is a simple implementation of the classic Tic Tac Toe game. Enjoy the timeless fun of strategic gameplay with a friend or challenge yourself against an AI opponent.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Two-player Mode**: Play against a friend on the same device.
+- **Single-player Mode**: Challenge the AI with adjustable difficulty levels.
+- **Responsive Design**: Enjoy a seamless gaming experience on different devices.
+- **Winning Logic**: Clear visualization of winning moves and game results.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+
+**Clone the Repository:**
+
+```bash
+  git clone https://github.com/amankumarmahavar/cryptoeed.git
+  cd snake-game
+```
+    
+**Check for flutter setup and connected devices**
+  ```bash
+  Flutter doctor
+```  
+
+**Get all the dependencies using**
+```bash
+  flutter pub get
+```
+
+**Run the app**
+```bash
+  flutter run
+```
+## Screenshots
+<img src="https://github.com/amankumarmahavar/ticteatoe/blob/main/ss/ticteatoe1.jpg" width="49%"/> <img src="https://github.com/amankumarmahavar/ticteatoe/blob/main/ss/ticteatoe2.jpg" width="49%"/> 
+
+## Authors
+
+- [@amanmahavar](https://github.com/amankumarmahavar)
+
+
