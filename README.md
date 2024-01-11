@@ -18,7 +18,7 @@ This is a simple implementation of the classic Tic Tac Toe game. Enjoy the timel
 **Clone the Repository:**
 
 ```bash
-  git clone https://github.com/amankumarmahavar/cryptoeed.git
+  git clone https://github.com/amankumarmahavar/ticteatoe.git
   cd snake-game
 ```
     
