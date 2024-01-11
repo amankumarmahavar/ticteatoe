@@ -37,7 +37,7 @@ This is a simple implementation of the classic Tic Tac Toe game. Enjoy the timel
   flutter run
 ```
 ## Screenshots
-<img src="https://github.com/amankumarmahavar/ticteatoe/blob/main/ss/ticteatoe1.jpg" width="49%"/> <img src="https://github.com/amankumarmahavar/ticteatoe/blob/main/ss/ticteatoe2.jpg" width="49%"/> 
+<img src="https://github.com/amankumarmahavar/ticteatoe/blob/main/ss/tictactoe1.jpg" width="49%"/> <img src="https://github.com/amankumarmahavar/ticteatoe/blob/main/ss/tictactoe2.jpg" width="49%"/> 
 
 ## Authors
 
